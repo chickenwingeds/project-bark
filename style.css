@@ -1,0 +1,29 @@
+body{
+    font-family:initial;
+    background-color: aqua;
+
+}
+
+.header_div{
+    color: white;
+    background-color:red ;
+}
+
+.header_div p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 30px;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    background-color: blueviolet;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
